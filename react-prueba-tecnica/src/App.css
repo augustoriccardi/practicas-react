@@ -2,12 +2,13 @@ main {
   display: flex;
   flex-direction: column;
   place-items: center;
+  text-align: center;
   max-width: 800px;
-  margin: 0 auto;
+  margin: auto;
   font-family: system-ui;
 }
 
-section {
+/* section {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,4 +22,4 @@ section img {
 
 button {
   margin-bottom: 15px;
-}
+} */
